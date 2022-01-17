@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+html{
+    background-color: black;
+}
+figure{
+    background-color: rgb(72, 73, 73);
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0%;
+}
+header{
+    color: white;
+    background-color: rgb(72, 73, 73);
+    width: 300px;
+}
+svg{
+    color: white;
+    background-color: rgb(72, 73, 73);
+    height: 26px;
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-size: 20px;
+    background-color: rgb(72, 73, 73);
+    width: 300px;
+    height: 200px;
+}
+tr{
+    color: black;
+    background: pink;
+    position: relative;
+    left: 25px;
+    width: 300px;
+    text-align: center;
+
+}
+.flexbox{
+    color: white;
+    background-color: rgb(72, 73, 73);
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    height: 50px;
+    position: relative;
+    left: 400px;
+    bottom: 800px;
+    font-size: 30px; 
+    padding: 10px;     
+}
+p{
+    color: white;
+    background: rgb(72, 73, 73);
+    display: block;
+    width: 900px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    bottom: 820px;
+    font-size: 30px; 
+    padding: 40px;     
+}
+h2{
+    color: white;
+    background: rgb(72, 73, 73);
+    display: block;
+    width: 900px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 850px;
+    font-size: 50px;
+    padding: 20px;   
+}
+h3{
+    color: white;
+    background: rgb(72, 73, 73);
+    display: block;
+    width: 900px;
+    height: 250px;
+    position: relative;
+    left: 400px;
+    bottom: 880px;
+    font-size: 20px;    
+}
+
+
